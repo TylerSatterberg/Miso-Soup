@@ -1,0 +1,103 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.waffle h1 {
+  text-align: center;
+  background-color: lightgrey;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  font-size: 110px;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+}
+
+.pic img {
+  width: 400px;
+  border-radius: 25px;
+}
+
+.me img {
+  border-radius: 25px;
+}
+
+.manta img {
+  width: 370px;
+}
+
+ul li {
+  font-size: 30px;
+}
+
+.cue {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+.yo {
+  color: white;
+}
+
+.e {
+  color: black;
+}
+
+body {
+  background-color: #777777;
+}
+
+.dash {
+  border-style: dashed;
+  border-color: white;
+  border-radius: 10px;
+  margin-left: 25px;
+}
+
+li a {
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+}
+
+.dashr {
+  border-style: dashed;
+  border-color: white;
+  border-radius: 10px;
+  margin-right: 25px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+p {
+  text-indent: 20px;
+}
+
+.left {
+  text-align: left;
+}
+
+a h3 {
+  font-family: 'Dancing Script', cursive;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+h5{
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+.grey{
+   background-color: #777777;
+}
