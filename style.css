@@ -106,7 +106,7 @@ h5 {
   background-color: #777777;
 }
 .MantaMask {
-  -webkit-mask-image: url(Something.png);
+  mask-image: url(Something.png);
   mask-image: url(Something.png);
   mask-repeat: no-repeat;    
 }
